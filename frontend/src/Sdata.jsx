@@ -1,7 +1,7 @@
 const Sdata = [
     {
         sname:"The Squid Game",
-        imgscr:"https://www.cnet.com/a/img/resize/c9f11fde760138663eb156fdf6882a06697e8b9d/hub/2021/09/27/d22c9142-cdc7-47b0-8180-d0c39af1cbd7/squid-game-main-promo.jpg?auto=webp&fit=crop&height=675&width=1200",
+        imgscr:"https://www.tagesschau.de/multimedia/bilder/squid-game-101~_v-original.jpg",
         title:"Netflix original series",
         links:"https://www.netflix.com/de-en/title/81040344"
     },

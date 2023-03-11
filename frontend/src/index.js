@@ -10,7 +10,7 @@ import Sdata from "./Sdata";
 function ncard(val){
     return(
         <Card
-        imgsrc ={val.imgsrc}
+        imgscr={val.imgscr}
         title = {val.title}
         sname = {val.sname}
         link = {val.links}
@@ -21,7 +21,7 @@ function ncard(val){
 
 ReactDOM.render(
     <>
-    <h1 className='heading.style'> List of top 6 Netflix series 2023</h1>
+    <h1 className='heading_style'> List of top 6 Netflix series 2023</h1>
     {Sdata.map(ncard)}
     </>,
     document.getElementById("root"));
